@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+<LinearLayout
+    android:layout_width="125dp"
+    android:layout_height="150dp"
+    android:orientation="vertical"
+    android:paddingLeft="30dp"
+    >
+    <TextView
+        android:id="@+id/tv_day_time1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="6日星期四"
+        android:textSize="16sp"
+        android:layout_below="@id/iv_rentou"
+        android:textColor="#fff"
+
+        />
+    <ImageView
+        android:id="@+id/iv_yun1"
+        android:layout_width="80dp"
+        android:layout_height="60dp"
+        android:src="@drawable/weather_qing"/>
+    <TextView
+        android:id="@+id/tv_day_wendu1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="22℃~29℃"
+        android:textSize="16sp"
+        android:layout_below="@id/iv_rentou"
+        android:textColor="#fff"
+
+        />
+    <TextView
+        android:id="@+id/tv_day_type1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="阴"
+        android:textSize="16sp"
+        android:layout_below="@id/iv_rentou"
+        android:textColor="#fff"
+
+        />
+    <TextView
+        android:id="@+id/tv_day_wind1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="风力3级"
+        android:textSize="16sp"
+        android:layout_below="@id/iv_rentou"
+        android:textColor="#fff"
+
+        />
+</LinearLayout>
+<LinearLayout
+    android:layout_width="125dp"
+    android:layout_height="150dp"
+    android:orientation="vertical"
+    android:paddingLeft="30dp">
+    <TextView
+        android:id="@+id/tv_day_time2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="6日星期四"
+        android:textSize="16sp"
+        android:layout_below="@id/iv_rentou"
+        android:textColor="#fff"
+
+        />
+    <ImageView
+        android:id="@+id/iv_yun2"
+        android:layout_width="80dp"
+        android:layout_height="60dp"
+        android:src="@drawable/weather_qing"/>
+    <TextView
+        android:id="@+id/tv_day_wendu2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="22℃~29℃"
+        android:textSize="16sp"
+        android:layout_below="@id/iv_rentou"
+        android:textColor="#fff"
+
+        />
+    <TextView
+        android:id="@+id/tv_day_type2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="阴"
+        android:textSize="16sp"
+        android:layout_below="@id/iv_rentou"
+        android:textColor="#fff"
+
+        />
+    <TextView
+        android:id="@+id/tv_day_wind2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="风力3级"
+        android:textSize="16sp"
+        android:layout_below="@id/iv_rentou"
+        android:textColor="#fff"
+
+        />
+</LinearLayout>
+<LinearLayout
+    android:layout_width="125dp"
+    android:layout_height="150dp"
+    android:orientation="vertical"
+    android:paddingLeft="30dp">
+    <TextView
+        android:id="@+id/tv_day_time3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="6日星期四"
+        android:textSize="16sp"
+        android:layout_below="@id/iv_rentou"
+        android:textColor="#fff"
+
+        />
+    <ImageView
+        android:id="@+id/iv_yun3"
+        android:layout_width="80dp"
+        android:layout_height="60dp"
+        android:src="@drawable/weather_qing"/>
+    <TextView
+        android:id="@+id/tv_day_wendu3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="22℃~29℃"
+        android:textSize="16sp"
+        android:layout_below="@id/iv_rentou"
+        android:textColor="#fff"
+
+        />
+    <TextView
+        android:id="@+id/tv_day_type3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="阴"
+        android:textSize="16sp"
+        android:layout_below="@id/iv_rentou"
+        android:textColor="#fff"
+
+        />
+    <TextView
+        android:id="@+id/tv_day_wind3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="风力3级"
+        android:textSize="16sp"
+        android:layout_below="@id/iv_rentou"
+        android:textColor="#fff"
+
+        />
+</LinearLayout>
+</LinearLayout>
